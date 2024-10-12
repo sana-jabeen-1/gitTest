@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <VinTest />
-      <div>just for testing</div>
+      <div>just for testing her </div>
     </div>
   );
 }

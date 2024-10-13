@@ -4,7 +4,7 @@ import imagec from "./images/car-img.jpg";
 function VinTest() {
   return (
     <>
-      <div>vin-test</div>
+      <div class="bg-indigo-500">vin-test</div>
       <h1> welcome to APp</h1>
     </>
   );
